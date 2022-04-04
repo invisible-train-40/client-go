@@ -4,7 +4,7 @@ A GraphQL client library to consume dfuse API <https://streamingfast.io> ([dfuse
 
 ## Installation
 
-    go get github.com/streamingfast/client-go
+    go get github.com/invisible-train-40/client-go
 
 ## Features
 

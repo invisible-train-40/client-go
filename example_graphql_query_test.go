@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	dfuse "github.com/streamingfast/client-go"
+	dfuse "github.com/invisible-train-40/client-go"
 )
 
 func ExampleClient_GraphQLQuery() {

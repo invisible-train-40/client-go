@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	dfuse "github.com/streamingfast/client-go"
+	dfuse "github.com/invisible-train-40/client-go"
 )
 
 func ExampleExperimentalClient_RawGraphQL() {
