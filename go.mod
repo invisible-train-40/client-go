@@ -1,4 +1,4 @@
-module github.com/streamingfast/client-go
+module github.com/invisible-train-40/client-go
 
 go 1.13
 
